@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Branislav Radosavljevic
+- 👀 I’m interested in Hybrid App Development as well as Backend Development with Python.
+- 🌱 I’m currently learning and sharpening my skills in Frontend Development.
+- 💞️ I’m looking to collaborate on mobile development.
